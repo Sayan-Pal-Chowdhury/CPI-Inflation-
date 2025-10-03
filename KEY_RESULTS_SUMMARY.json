@@ -1,0 +1,23 @@
+{
+  "highest_avg_yoy_year": 2014,
+  "highest_avg_yoy_value_pct": 6.70997242549348,
+  "yoy_plot": "results/yoy_general_ru.png",
+  "food_results": {
+    "highest_food_mom": {
+      "Year": 2022,
+      "Month": "October",
+      "Date": "2022-10-01T00:00:00",
+      "Food_mom_pct": 1.012373453318327
+    },
+    "lowest_food_mom": {
+      "Year": 2022,
+      "Month": "December",
+      "Date": "2022-12-01T00:00:00",
+      "Food_mom_pct": -1.346045989904654
+    },
+    "biggest_contributor": {
+      "category": "Spices",
+      "abs_change": 30.900000000000006
+    }
+  }
+}
