@@ -12,4 +12,4 @@ What I added
 - PROBLEM.md (reconstructed problem statements based on screenshots)
 - SOLUTION.md (step-by-step solution approach you can paste into your README)
 
-See PROBLEM.md and SOLUTION.md for details.
+See PROBLEM.md, SOLUTION.md and FINAL.xlsx for details.
